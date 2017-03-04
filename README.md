@@ -1,4 +1,4 @@
-# SB Admin rewritten in Angular2 and Bootstrap 4
+# SB Admin rewritten in Angular2 and Bootstrap 4 Lets Quester Project
 
 Simple Dashboard Admin App built using Angular 2 and Bootstrap 4
 
